@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 echo aclocal
 aclocal || exit
 echo autoheader
